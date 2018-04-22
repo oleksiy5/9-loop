@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\9-loop\ProjLoop\ProjLoop\bin\Debug\ProjLoop.exe.config
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\9-loop\ProjLoop\ProjLoop\bin\Debug\ProjLoop.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\9-loop\ProjLoop\ProjLoop\bin\Debug\ProjLoop.pdb
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\9-loop\ProjLoop\ProjLoop\obj\Debug\ProjLoop.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\9-loop\ProjLoop\ProjLoop\obj\Debug\ProjLoop.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\9-loop\ProjLoop\ProjLoop\obj\Debug\ProjLoop.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\9-loop\ProjLoop\ProjLoop\obj\Debug\ProjLoop.pdb
